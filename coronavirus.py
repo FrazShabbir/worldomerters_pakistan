@@ -1,5 +1,5 @@
 import scrapy
-
+#scrapy
 
 class CoronaSpider(scrapy.Spider):
     name = 'corona'
